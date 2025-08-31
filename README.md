@@ -1,4 +1,4 @@
-# 🚀 NEXUS AI/ML Society - 3D Developer Portfolio
+# 🚀 NEXUS Technical Society - 3D Developer Portfolio
 
 <div align="center">
   <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
@@ -7,13 +7,13 @@
   <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
 </div>
 
-## 🎯 About NEXUS AI/ML Society
+## 🎯 About NEXUS Technical Society
 
-**NEXUS** is the premier AI/ML society at our college, dedicated to fostering innovation, collaboration, and excellence in artificial intelligence and machine learning. Our society brings together students, faculty, and industry professionals to explore cutting-edge technologies and build the future of AI.
+**NEXUS** is the premier technical society at our college, dedicated to fostering innovation, collaboration, and excellence across all areas of technology. Our society brings together students, faculty, and industry professionals to explore cutting-edge technologies and build the future of computing, from AI/ML to web development, cybersecurity, and beyond.
 
 ## 🌟 Project Overview
 
-This **3D Developer Portfolio** showcases the technical prowess and creative vision of NEXUS AI/ML Society members. Built with modern web technologies and immersive 3D graphics, it represents our commitment to pushing the boundaries of what's possible in web development and AI applications.
+This **3D Developer Portfolio** showcases the technical prowess and creative vision of NEXUS Technical Society members. Built with modern web technologies and immersive 3D graphics, it represents our commitment to pushing the boundaries of what's possible in web development and technology applications.
 
 ## ✨ Features
 
@@ -32,7 +32,7 @@ This **3D Developer Portfolio** showcases the technical prowess and creative vis
 ### 📱 **Interactive Sections**
 - **About Section** - Learn about our society and mission
 - **Experience Timeline** - Track our journey and achievements
-- **Projects Showcase** - View our innovative AI/ML projects
+- **Projects Showcase** - View our innovative technical projects
 - **Skills & Technologies** - Explore our technical expertise
 - **Contact Form** - Get in touch with our team
 
@@ -83,9 +83,9 @@ npm run preview
 
 - **Foster Innovation**: Encourage creative thinking and problem-solving
 - **Skill Development**: Provide hands-on experience with cutting-edge technologies
-- **Industry Collaboration**: Connect students with AI/ML professionals
+- **Industry Collaboration**: Connect students with technology professionals
 - **Research & Development**: Support innovative projects and research initiatives
-- **Community Building**: Create a supportive network of AI/ML enthusiasts
+- **Community Building**: Create a supportive network of technology enthusiasts
 
 ## 🤝 Get Involved
 
@@ -93,7 +93,7 @@ npm run preview
 - Join our workshops and hackathons
 - Contribute to open-source projects
 - Attend industry guest lectures
-- Participate in AI/ML competitions
+- Participate in technical competitions
 
 ### For Faculty
 - Mentor student projects
@@ -109,17 +109,19 @@ npm run preview
 
 ## 📞 Contact Us
 
-- **Email**: nexus.aiml@college.edu
-- **LinkedIn**: [NEXUS AI/ML Society](https://linkedin.com/company/nexus-aiml)
-- **GitHub**: [@nexus-aiml-society](https://github.com/nexus-aiml-society)
-- **Discord**: [Join our community](https://discord.gg/nexus-aiml)
+- **Email**: nexus.tech@college.edu
+- **LinkedIn**: [NEXUS Technical Society](https://linkedin.com/company/nexus-tech)
+- **GitHub**: [@nexus-tech-society](https://github.com/nexus-tech-society)
+- **Discord**: [Join our community](https://discord.gg/nexus-tech)
 
 ## 📚 Learning Resources
 
 - **AI/ML Fundamentals**: Machine Learning, Deep Learning, Neural Networks
-- **Web Development**: React, Three.js, Modern JavaScript
+- **Web Development**: React, Three.js, Modern JavaScript, Full-Stack Development
 - **3D Graphics**: Computer Graphics, 3D Modeling, Animation
-- **Tools & Platforms**: TensorFlow, PyTorch, Google Colab, GitHub
+- **Cybersecurity**: Network Security, Ethical Hacking, Cryptography
+- **Data Science**: Data Analysis, Visualization, Big Data Processing
+- **Tools & Platforms**: TensorFlow, PyTorch, Google Colab, GitHub, Docker, AWS
 
 ## 🌟 Contributing
 
@@ -145,6 +147,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p><strong>Built with ❤️ by NEXUS AI/ML Society</strong></p>
-  <p><em>Empowering the future of AI/ML, one project at a time</em></p>
+  <p><strong>Built with ❤️ by NEXUS Technical Society</strong></p>
+  <p><em>Empowering the future of technology, one project at a time</em></p>
 </div>
